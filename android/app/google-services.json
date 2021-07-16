@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73349349640",
+    "project_id": "drevoltest",
+    "storage_bucket": "drevoltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73349349640:android:050108a61c3bfc71686cbd",
+        "android_client_info": {
+          "package_name": "com.example.drevol_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73349349640-tq74j8ean5k7vl86t69r2gqqbstpvg35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdY9YLbhh2EdfuMzf9ehZRx7i4Fmr2hWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73349349640-tq74j8ean5k7vl86t69r2gqqbstpvg35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
